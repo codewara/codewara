@@ -16,5 +16,5 @@
   <img height="215" width="750" src="https://streak-stats.demolab.com?user=codewara&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=840&card_height=215" />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codewara/codewara/output/snk.svg" />
+  <img height="215" width="750" src="https://raw.githubusercontent.com/codewara/codewara/output/snk.svg" />
 </div>
