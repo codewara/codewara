@@ -9,11 +9,11 @@
 ## Stats
 -->
 <div align="center">
-  <img height="215" width="281" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewara&theme=dark&layout=donut&size_weight=0.5&count_weight=0.5" />
-  <img height="215" width="389" src="https://github-readme-stats.vercel.app/api/wakatime/?username=@codewara&theme=dark&langs_count=10" />
+  <img height="215" width="295" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewara&theme=dark&layout=donut&size_weight=0.5&count_weight=0.5" />
+  <img height="215" width="409" src="https://github-readme-stats.vercel.app/api/wakatime/?username=@codewara&theme=dark&langs_count=10" />
 </div>
 <div align="center">
-  <img height="215" width="675" src="https://streak-stats.demolab.com?user=codewara&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=840&card_height=215" />
+  <img height="215" width="710" src="https://streak-stats.demolab.com?user=codewara&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=840&card_height=215" />
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/codewara/codewara/output/snk.svg" />
